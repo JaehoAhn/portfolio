@@ -68,6 +68,8 @@
     }
 
     #images img {
+        -webkit-transition: .3s ease-in-out;
+	    transition: .3s ease-in-out;
         opacity: 0.5;
     }
 
