@@ -6,8 +6,7 @@ import IndexPage from "./components/IndexPage.vue"
 <template>
   <div id="app">
     <HeaderBar></HeaderBar>
-    <IndexPage></IndexPage>
-    <!-- <router-view></router-view> -->
+    <router-view></router-view>
 
   </div>
 </template>

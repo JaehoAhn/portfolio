@@ -5,10 +5,12 @@
 
 <template>
   <div id="nav">
-    <img src="../img/logo.png" alt="logo" width="40" height="40">
+    <a href="/">
+      <img src="../img/logo.png" alt="logo" width="40" height="40">
+    </a>
     
     <div class="links">
-      <a>About</a>
+      <a href="/about">About</a>
       <a>Contact</a>
     </div>
   </div>

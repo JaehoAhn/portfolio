@@ -62,7 +62,7 @@
 
     #images {
         display: flex;
-        width: 50%;
+        width: 100%;
         padding: 0 4px;
         text-align: right;
         margin-top: 10vh;
@@ -77,8 +77,7 @@
     }
 
     #jaehoMain #intro {
-        width: 50%;
-        
+        width: 20%;
         margin-top: 10vh;
         margin-right: 15%;
         text-align: right;
