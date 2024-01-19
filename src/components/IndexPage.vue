@@ -1,6 +1,5 @@
 <script>
 
-
 </script>
 
 <template>
@@ -67,6 +66,16 @@
         text-align: right;
         margin-top: 10vh;
     }
+
+    #images img {
+        opacity: 0.5;
+    }
+
+    #images img:hover {
+        opacity: 1;
+    }
+
+
 
     .column {
         padding: 0 4px;
